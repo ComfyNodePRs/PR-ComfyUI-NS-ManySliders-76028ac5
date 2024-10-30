@@ -10,6 +10,8 @@ class NS_ManySliders:
         with open(settings_path, 'r') as f:
             settings = yaml.safe_load(f)
 
+        step = settings['sliders'].get('step', 0.1)  # 'step'を設定ファイルから取得し、デフォルト値を0.1に設定
+        
         required = {
             "slider_count": ("INT", {
                 "default": settings['sliders']['count'],
