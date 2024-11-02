@@ -2,12 +2,12 @@
 name = "ComfyUI-NS-ManySliders"
 description = "Node for ComfyUI to manipulate values with multiple sliders."
 version = "1.0.1"
-license = {"LICENSE"}
+license = { file = "LICENSE.txt" }
 
 [project.urls]
 Repository = "https://github.com/NakamuraShippo/ComfyUI-NS-ManySliders"
 
 [tool.comfy]
-PublisherId = "nakamurashippo"
+PublisherId = "@nakamurashippo"
 DisplayName = "ComfyUI-NS-ManySliders"
 Icon = ""
