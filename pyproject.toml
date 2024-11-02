@@ -8,6 +8,6 @@ license = {"LICENSE"}
 Repository = "https://github.com/NakamuraShippo/ComfyUI-NS-ManySliders"
 
 [tool.comfy]
-PublisherId = "nakamurashippo"
+PublisherId = "@nakamurashippo"
 DisplayName = "ComfyUI-NS-ManySliders"
 Icon = ""
