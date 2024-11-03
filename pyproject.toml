@@ -1,5 +1,5 @@
 [project]
-name = "ComfyUI-NS-ManySliders"
+name = "comfyui-ns-manysliders"
 description = "Node for ComfyUI to manipulate values with multiple sliders."
 version = "1.0.2"
 license = { file = "LICENSE.txt" }
